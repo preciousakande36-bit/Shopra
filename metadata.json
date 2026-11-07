@@ -1,0 +1,6 @@
+{
+  "name": "Shopora",
+  "description": "Worldwide Multi-Vendor E-Commerce Mobile Marketplace with Platform Official Store, Global Sellers, Multi-Currency Ledger, and Order Fulfillment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
